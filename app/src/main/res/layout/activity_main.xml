@@ -75,6 +75,12 @@
             android:backgroundTint="#63C0F4"
             android:text="로그인" />
 
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TextView" />
+
 
     </LinearLayout>
 
