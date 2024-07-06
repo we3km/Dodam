@@ -1,4 +1,4 @@
-package com.example.dodam
+package com.explorit.dodamdodam
 
 import org.junit.Test
 

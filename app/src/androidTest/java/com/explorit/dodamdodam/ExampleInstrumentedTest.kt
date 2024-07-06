@@ -1,4 +1,4 @@
-package com.example.dodam
+package com.explorit.dodamdodam
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
