@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".LoginActivity">
 
 
     <LinearLayout
@@ -15,7 +15,7 @@
         android:paddingRight="16dp"
         android:paddingLeft="16dp"
         android:orientation="vertical"
-        tools:context=".MainActivity"
+        tools:context=".LoginActivity"
         tools:layout_editor_absoluteX="16dp"
         tools:layout_editor_absoluteY="45dp">
 
