@@ -110,7 +110,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
-            android:background="@drawable/login_button_border"
+            android:background="@drawable/black_border"
             android:backgroundTint="#F4DD63"
             android:text="KaKao" />
 
@@ -119,7 +119,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
-            android:background="@drawable/login_button_border"
+            android:background="@drawable/black_border"
             android:backgroundTint="#0D000000"
             android:text="Google" />
 
@@ -127,7 +127,7 @@
             android:id="@+id/buttonLogin"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="@drawable/login_button_border"
+            android:background="@drawable/black_border"
             android:backgroundTint="#63C0F4"
             android:text="로그인" />
 
