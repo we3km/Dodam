@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId "com.explorit.dodamdodam"
-        minSdk 34
+        minSdk 27
         targetSdk 34
         versionCode 1
         versionName "1.0"
@@ -32,11 +32,15 @@ android {
     }
 
     viewBinding {
-        enabled true;
+        enabled = true
     }
 
     dataBinding {
         enabled = true
+    }
+
+    buildFeatures {
+        buildConfig = true
     }
 }
 
